@@ -1,0 +1,13 @@
+﻿git pull 冲突
+git stash 
+git pull 冲突
+git stash pop
+git stash list
+git add .
+git commit -m "aaa" 解决冲突
+git stash apply stash@<0>
+
+
+git push origin HEAD:refs/for/master
+wang@1997
+wang!0310P
